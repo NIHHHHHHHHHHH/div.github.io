@@ -1,0 +1,43 @@
+.link {
+    font-size: 1.5rem;
+    font-family: "Montserrat-light";
+    text-decoration: none;
+    color: black;
+}
+
+.title {
+    background-color: #B9F3E4;
+    color: #fff;
+}
+
+#Home {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+}
+
+#Contact {
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+}
+
+#About {
+    padding: 7% 15%;
+    background-color: #fff;
+    background-color: #B9F3E4;
+    position: relative;
+}
+
+h2 {
+    text-align: center;
+    font-size: 100px;
+}
+
+h1 {
+    padding: 3% 3%;
+}
+
+p {
+    font-size: large;
+}
